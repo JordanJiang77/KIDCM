@@ -6,6 +6,10 @@ This repository contains the official code and datasets for **A Knowledge-inform
 
 **Authors: ** Ruiyuan Jiang, Shangbo Wang, Wei Ma, Yuli Zhang, Pengfei Fan, Dongyao Jia 
 
+
+We would appreciate a citation of our work: Ruiyuan Jiang, Shangbo Wang, Wei Ma, Yuli Zhang, Pengfei Fan, Dongyao Jia, A knowledge-informed dynamic correlation modeling framework for lane-level traffic flow prediction, Information Fusion, Volume 124, 2025, 103327, ISSN 1566-2535, https://doi.org/10.1016/j.inffus.2025.103327.
+
+
 # How to run
 **1. Download the dataset**
 The dataset of I-24 Motion is available at: https://i24motion.org/data
