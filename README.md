@@ -1,7 +1,8 @@
 # KIDCM
 This repository contains the official code and datasets for **A Knowledge-informed Dynamic Correlation Modeling Framework for Lane-level Traffic Flow Prediction** 
+**Link** https://www.sciencedirect.com/science/article/pii/S1566253525004002
 
-**Authors: ** Ruiyuan Jiang, Shangbo Wang, Wei Ma, Yuli Zhang, Pengfei Fan, Dongyao Jia **Link** https://www.sciencedirect.com/science/article/pii/S1566253525004002
+**Authors: ** Ruiyuan Jiang, Shangbo Wang, Wei Ma, Yuli Zhang, Pengfei Fan, Dongyao Jia 
 
 # How to run
 **1. Download the dataset**
